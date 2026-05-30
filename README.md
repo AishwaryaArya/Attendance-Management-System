@@ -126,10 +126,4 @@ Through this project, the following concepts were learned and implemented:
 
 ---
 
-## Resume Description
-
-Developed a Student Attendance Management System using HTML, CSS, and JavaScript. Implemented date-wise attendance tracking, dynamic student management, local storage integration, and real-time attendance updates through DOM manipulation and event handling.
-
----
-
 
