@@ -84,20 +84,7 @@ Saved data is loaded automatically when the application starts.
 ---
 
 ## Screenshots
-
-Add screenshots of your project here.
-
-### Home Page
-
-```text
-Screenshot 1
-```
-
-### Attendance Management
-
-```text
-Screenshot 2
-```
+<img width="1853" height="844" alt="image" src="https://github.com/user-attachments/assets/797bfaf2-101a-461f-b299-0fd5fe6bff94" />
 
 ---
 
