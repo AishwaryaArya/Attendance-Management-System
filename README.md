@@ -132,8 +132,4 @@ Developed a Student Attendance Management System using HTML, CSS, and JavaScript
 
 ---
 
-## Author
 
-Aishwarya Arya
-
-GitHub: Add Your GitHub Profile Link Here
